@@ -6,8 +6,15 @@
  *
  * output => ["f","o","o","z","i","m","a,"n"]
  */
+//log = console.log;
 let str = "fooziman";
 let result = [];
+
+for (let i = 0; i < str.length; i++) {
+    result.push(str[i]);
+}
+
+//log(result);
 
 
 //export result
