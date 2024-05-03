@@ -41,7 +41,7 @@ for (let i = 0; i < lenA ; i++) {
 }
 resultA.push("h@ck")
 let lenB = resultA.length;
-let outputArray = [];
+
 
 for (let i = 0; i < lenB; i++) {
   let item = resultA[i];
