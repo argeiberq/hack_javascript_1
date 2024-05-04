@@ -4,7 +4,7 @@
 
 📚 tutoriales de javascript [tutorial 1](https://developer.mozilla.org/es/docs/Web/JavaScript/Guide) | [tutorial 2](https://www.w3schools.com/js/) | [tutorial 3](https://es.javascript.info/)
 ---
-![ ](https://github.com/argeiberq/hack_javascript_1/blob/main/video/20240502190211.mp4)
+[test 🏆](https://github.com/argeiberq/hack_javascript_1/blob/main/video/20240502190211.mp4)
 
 ```diff
 - NOTA HACER LAS PRÁCTICAS MEDIANTE VISUAL STUDIO CODE  
